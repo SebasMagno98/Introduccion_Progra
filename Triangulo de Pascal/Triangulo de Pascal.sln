@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Triangulo de Pascal", "Triangulo de Pascal\Triangulo de Pascal.pyproj", "{68BCE851-4E61-42D5-800C-5756878F70AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BCE851-4E61-42D5-800C-5756878F70AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BCE851-4E61-42D5-800C-5756878F70AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7096C076-F47F-4D1E-BE5A-A9E18E71B219}
+	EndGlobalSection
+EndGlobal
